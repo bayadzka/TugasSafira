@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655858693742",
+    "project_id": "cruddata-50d5d",
+    "storage_bucket": "cruddata-50d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655858693742:android:ebd3e1bad020d6317c987f",
+        "android_client_info": {
+          "package_name": "com.safira.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOa6Svt9nPe4XKBBYNcmWDp6yJ5HMr5JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
